@@ -1,7 +1,0 @@
-- name: Setup Brainfuck
-  # You may pin to the exact commit or the version.
-  # uses: fabasoad/setup-brainfuck-action@5d2b012c627196db9a5695521d33def68271fd4d
-  uses: fabasoad/setup-brainfuck-action@v1.0.8
-  with:
-    # Brainfucky library version.
-    version: # optional
